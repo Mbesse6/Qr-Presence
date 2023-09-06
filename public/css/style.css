@@ -1,0 +1,94 @@
+.container {
+    padding-top: 50px;
+}
+.page {
+    background-color: #f0f8ff;
+    padding-bottom: 30px;
+}
+.insc {
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+.bastext {
+    color: white;
+    text-align: center;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 40px;
+}
+.bas {
+    background-color: black;
+}
+.login{
+    padding-bottom: 20px;
+}
+h3
+{
+	font-size: 30px;
+	color: #444;
+    text-align: center;
+}
+.centre {
+    text-align: center;
+}
+.cont {
+    background-color: beige;
+    padding-bottom: 20px;
+}
+
+p {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+footer{
+    position: relative;
+    margin-top: 100px;
+}
+.qr{
+    position: relative;
+    margin-bottom: 10%;
+    margin-left: 43%;
+}
+table{
+    margin-top: 50px;
+}
+
+
+.body{
+    background: #eee;
+}
+
+#side_nav{
+    background:#000;
+    min-width: 350px;
+    max-width: 350px;
+}
+
+.content{
+    min-height: 100vh;
+    width: 100%;
+}
+hr.h-color{
+    background: #eee;
+}
+
+.sidebar li.active{
+    background: #eee;
+    border-radius: 8px;
+}
+
+.sidebar li.active a, .sidebar li.active a:hover{
+    color: #000;
+}
+
+.sidebar li a{
+    color: #fff;
+}
